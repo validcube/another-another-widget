@@ -134,7 +134,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-crashlytics:17.4.1'
 
     // Preferences
-    implementation 'com.chibatching.kotpref:kotpref:2.13.1'
+    implementation 'com.chibatching.kotpref:kotpref:2.13.2'
     implementation 'com.chibatching.kotpref:livedata-support:2.13.2'
     implementation 'androidx.preference:preference-ktx:1.1.1'
 
