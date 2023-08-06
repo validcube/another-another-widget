@@ -139,7 +139,7 @@ dependencies {
     implementation 'androidx.preference:preference-ktx:1.1.1'
 
     // Permissions
-    implementation 'com.karumi:dexter:6.2.1'
+    implementation 'com.karumi:dexter:6.2.3'
 
     // Fonts
     implementation 'com.github.firatkarababa:downloadable-font-list-library:1.0.2'
