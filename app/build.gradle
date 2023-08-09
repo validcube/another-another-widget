@@ -136,7 +136,7 @@ dependencies {
     // Preferences
     implementation 'com.chibatching.kotpref:kotpref:2.13.2'
     implementation 'com.chibatching.kotpref:livedata-support:2.13.2'
-    implementation 'androidx.preference:preference-ktx:1.1.1'
+    implementation 'androidx.preference:preference-ktx:1.2.1'
 
     // Permissions
     implementation 'com.karumi:dexter:6.2.3'
