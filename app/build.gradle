@@ -107,7 +107,7 @@ dependencies {
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
 
     //Weather
-    implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.0.2'
+    implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0'
     implementation 'com.google.android.gms:play-services-location:18.0.0'
 
     // Billing
