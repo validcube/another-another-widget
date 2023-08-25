@@ -94,7 +94,7 @@ dependencies {
 
     // Other
     implementation 'androidx.multidex:multidex:2.0.1'
-    implementation 'net.danlew:android.joda:2.10.9'
+    implementation 'net.danlew:android.joda:2.12.5'
     implementation 'me.everything:providers-android:1.0.1'
     implementation 'com.github.warkiz.widget:indicatorseekbar:2.1.2'
 
