@@ -111,7 +111,7 @@ dependencies {
     implementation 'com.google.android.gms:play-services-location:18.0.0'
 
     // Billing
-    implementation 'com.android.billingclient:billing:3.0.3'
+    implementation 'com.android.billingclient:billing:6.0.1'
     implementation 'com.android.billingclient:billing-ktx:3.0.3'
 
     // KTX
