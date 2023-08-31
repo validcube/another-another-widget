@@ -128,7 +128,7 @@ dependencies {
     implementation "com.github.haroldadmin:NetworkResponseAdapter:4.2.2"
 
     //Coroutines
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
 
     // Add the Firebase SDK for Crashlytics.
     implementation 'com.google.firebase:firebase-crashlytics:17.4.1'
