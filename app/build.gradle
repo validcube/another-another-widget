@@ -108,7 +108,7 @@ dependencies {
 
     //Weather
     implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0'
-    implementation 'com.google.android.gms:play-services-location:18.0.0'
+    implementation 'com.google.android.gms:play-services-location:21.1.0'
 
     // Billing
     implementation 'com.android.billingclient:billing:6.0.1'
