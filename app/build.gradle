@@ -104,7 +104,7 @@ dependencies {
 
     // Fitness
     implementation 'com.google.android.gms:play-services-fitness:21.1.0'
-    implementation 'com.google.android.gms:play-services-auth:19.2.0'
+    implementation 'com.google.android.gms:play-services-auth:20.7.0'
 
     //Weather
     implementation 'com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0'
