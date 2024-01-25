@@ -90,7 +90,7 @@ dependencies {
 
     // Navigation
     implementation 'androidx.navigation:navigation-fragment-ktx:2.7.1'
-    implementation 'androidx.navigation:navigation-ui-ktx:2.7.1'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.7.6'
 
     // Other
     implementation 'androidx.multidex:multidex:2.0.1'
